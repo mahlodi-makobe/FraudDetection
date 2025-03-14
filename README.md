@@ -23,4 +23,4 @@ The model achieved a **ROC-AUC score of 1.0000**, demonstrating perfect discrimi
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/fraud-detection-project.git
+   git clone https://github.com/mahlodi-makobe/fraud-detection-project.git
